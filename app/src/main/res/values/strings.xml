@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppShare</string>
+    <string name="abc"> You are log out beacause you tried to signup agian using URL, Or First time install this app</string>
+</resources>
